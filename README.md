@@ -44,4 +44,6 @@ GROUP BY industry_group
 ORDER BY total_industry_footprint DESC;
 ```
 
-
+                                     ## Data Visualization
+### Total Industry Carbon Footprint by Sector
+![Total Industry Carbon Footprint by Sector](Total Industry Carbon Footprint by Sector.png)
